@@ -1,0 +1,1437 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SimpleKey V1.02\n"
+"POT-Creation-Date: 2013-07-02 12:28+0800\n"
+"PO-Revision-Date: 2013-07-02 12:28+0800\n"
+"Last-Translator: ThemeVan <badjohnny.woo@gmail.com>\n"
+"Language-Team: ThemeVan <badjohnny.woo@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;__;_n;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:9
+msgid "404 Error"
+msgstr ""
+
+#: ../404.php:10
+msgid "Is this somewhat embarrassing?"
+msgstr ""
+
+#: ../404.php:15
+msgid ""
+"It seems we can't find what you're looking for. Perhaps the page not exsit "
+"or it was removed by administrator.<br/>Please try the following:"
+msgstr ""
+
+#: ../404.php:17
+msgid "Return to the Homepage"
+msgstr ""
+
+#: ../404.php:20
+msgid "Report to webmaster"
+msgstr ""
+
+#: ../archive.php:23
+msgid "Archive for"
+msgstr ""
+
+#: ../archive.php:28
+#, php-format
+msgid "Tagged <strong>%s</strong>"
+msgstr ""
+
+#: ../archive.php:29
+#, php-format
+msgid "Browsing all posts tagged with %s"
+msgstr ""
+
+#: ../archive.php:33 ../archive.php:34
+msgid "F jS, Y"
+msgstr ""
+
+#: ../archive.php:38 ../archive.php:39
+msgid "F, Y"
+msgstr ""
+
+#: ../archive.php:43 ../archive.php:44
+msgid "Y"
+msgstr ""
+
+#: ../author.php:17
+msgid "Author: "
+msgstr ""
+
+#: ../author.php:18
+msgid "Browsing all posts of "
+msgstr ""
+
+#: ../comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:16
+msgid "NO COMMENTS ON THIS POST"
+msgstr ""
+
+#: ../comments.php:16
+msgid "ONE COMMENT ON THIS POST"
+msgstr ""
+
+#: ../comments.php:16
+msgid "% COMMENTS ON THIS POST"
+msgstr ""
+
+#: ../comments.php:16
+#, php-format
+msgid "To &#8220;%s&#8221;"
+msgstr ""
+
+#: ../comments.php:36
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:37
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:40
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:44 ../content-contactform.php:87
+msgid "Your Name"
+msgstr ""
+
+#: ../comments.php:48 ../content-contactform.php:88
+msgid "Your Email"
+msgstr ""
+
+#: ../comments.php:52
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:57 ../content-contactform.php:106
+msgid "Submit"
+msgstr ""
+
+#: ../comments.php:60 ../content-contactform.php:89
+msgid "Message"
+msgstr ""
+
+#: ../content-contact.php:20
+msgid "Name:"
+msgstr ""
+
+#: ../content-contact.php:21
+msgid "Phone:"
+msgstr ""
+
+#: ../content-contact.php:22
+msgid "Fax:"
+msgstr ""
+
+#: ../content-contact.php:23
+msgid "Skype:"
+msgstr ""
+
+#: ../content-contact.php:24
+msgid "Address:"
+msgstr ""
+
+#: ../content-contactform.php:17
+msgid "You forgot to enter your name."
+msgstr ""
+
+#: ../content-contactform.php:25
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#: ../content-contactform.php:28
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: ../content-contactform.php:36
+msgid "You forgot to enter your comments."
+msgstr ""
+
+#: ../content-contactform.php:49
+msgid "You forgot to enter CAPTCHA."
+msgstr ""
+
+#: ../content-contactform.php:53
+msgid "You entered an invalid CAPTCHA."
+msgstr ""
+
+#: ../content-contactform.php:74
+msgid "Your email was successfully sent. I will be in touch soon."
+msgstr ""
+
+#: ../content-contactform.php:100
+msgid "Captcha"
+msgstr ""
+
+#: ../content-contactform.php:111
+msgid "You forgot to enter"
+msgstr ""
+
+#: ../content-contactform.php:112
+msgid "You entered an invalid"
+msgstr ""
+
+#: ../content-contactform.php:113
+msgid ""
+"Thanks! Your email was successfully sent. I check my email all the time, so "
+"I should be in touch soon."
+msgstr ""
+
+#: ../content-loop.php:18 ../functions/common-functions.php:122
+#: ../includes/theme-functions.php:194 ../includes/theme-functions.php:202
+msgid "Read More &raquo;"
+msgstr ""
+
+#: ../content-loop.php:36
+msgid "No Posts Found In This Category"
+msgstr ""
+
+#: ../content-loop.php:38
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: ../content-portfolios.php:74
+msgid "Apologies, no portfolios found."
+msgstr ""
+
+#: ../header.php:30
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../search.php:12
+#, php-format
+msgid "Result of <strong>%s</strong>"
+msgstr ""
+
+#: ../search.php:13
+#, php-format
+msgid "Browsing all posts about <strong>%s</strong>"
+msgstr ""
+
+#: ../single-2columns.php:12 ../single-portfolio.php:12 ../single.php:16
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../single-2columns.php:13 ../single-portfolio.php:13 ../single.php:17
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../taxonomy-portfolios.php:14 ../taxonomy-portfolios.php:15
+#: ../includes/theme-functions.php:539
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions/admin-functions.php:258
+msgid "Excerpt"
+msgstr ""
+
+#: ../functions/common-functions.php:211
+msgid "Page"
+msgstr ""
+
+#: ../includes/theme-functions.php:96
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../includes/theme-functions.php:97
+msgid "No comment"
+msgstr ""
+
+#: ../includes/theme-functions.php:97
+msgid "1 Comment"
+msgstr ""
+
+#: ../includes/theme-functions.php:97
+msgid "% Comments"
+msgstr ""
+
+#: ../includes/theme-functions.php:99
+#, php-format
+msgid "in %2$s"
+msgstr ""
+
+#: ../includes/theme-functions.php:172
+msgid "BY "
+msgstr ""
+
+#: ../includes/theme-functions.php:172
+msgid " COMMENTS"
+msgstr ""
+
+#: ../includes/theme-functions.php:494
+msgid "All"
+msgstr ""
+
+#: ../includes/theme-functions.php:539
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../includes/theme-functions.php:543
+msgid "Your comment is waiting for approvel..."
+msgstr ""
+
+#: ../includes/theme-init.php:49
+msgid "Blog sidebar"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:11
+msgid "Portfolios"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:12
+msgid "All Portfolios"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:13
+msgid "Add Portfolio"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:14
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:15
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:16
+#: ../includes/extendsions/slider-type.php:16
+msgid "Add New"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:17
+msgid "Browse Portfolio"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:18
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:19
+msgid "No portfolios found."
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:20
+msgid "No portfolios found in trash."
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:47
+#: ../includes/extendsions/portfolio-type.php:48
+msgid "Portfolio category"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:49
+msgid "Search category"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:50
+msgid "All portfolio categories"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:51
+#: ../includes/extendsions/portfolio-type.php:52
+msgid "Parent portfolio category"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:53
+msgid "Edit category"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:54
+msgid "Update category"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:55
+msgid "Add new category"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:56
+msgid "New category name"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:79
+msgid "portfolio type"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:86
+msgid ""
+"Not Recommended, if you want to insert the gallery,video or audio into "
+"content, please check it."
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:87
+msgid "Disable The Default Gallery/Video/Audio Stage of This Portfolio "
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:95
+msgid "Portfolio Layout"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:103
+msgid "Portfolio Columns"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:109
+msgid "How to get Youtube/Vimeo code?"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:110
+msgid "Youtube or Vimeo Iframe Embed Code"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:116
+msgid "Example: How to get SoundCloud code?"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:116
+msgid "Go to SoundCloud now!"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:117
+msgid "SoundCloud or MixCloud Iframe Embed Code"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:123
+msgid ""
+"The page will redirect to the external website when user click the portfolio "
+"thumbnail "
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:124
+msgid "External links"
+msgstr ""
+
+#: ../includes/extendsions/portfolio-type.php:200
+msgid "Portfolio Setting"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:11
+msgid "sliders"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:12
+msgid "All sliders"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:13
+msgid "Add slider"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:14
+msgid "Add New slider"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:15
+msgid "Edit slider"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:17
+msgid "Browse slider"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:18
+msgid "Search slider"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:19
+msgid "No sliders found."
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:20
+msgid "No sliders found in trash."
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:51
+msgid "Advanced user feature"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:52
+msgid "Custom Slider"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:58
+msgid "Optimal size 1600 X 950px"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:59
+msgid "Slider Background Image"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:65
+msgid "Minsize 640 X 960px"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:66
+msgid "Optional: Slider Background Image for Mobile Phone"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:72
+msgid "Optimal size 1024 X 800px"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:73
+msgid "Optional: Slider Background Image for tablet(iPad)"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:80
+msgid "Slider Main Heading"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:87
+msgid "Slider Sub Heading"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:94
+msgid "Slider Excerpt"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:100
+msgid "You can use button shortcode here,e.g."
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:101
+msgid "Slider Button Shortcode here"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:107
+msgid "Do not forget the prefix: http://"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:108
+msgid "Slider link"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:114
+msgid ""
+"You can use shortcodes and HTML to custom slider content here and the "
+"featured thumbnail will be invalid."
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:115
+msgid "Slider custom"
+msgstr ""
+
+#: ../includes/extendsions/slider-type.php:211
+msgid "Slider Setting"
+msgstr ""
+
+#: ../includes/extendsions/theme-category-field.php:19
+msgid "Special head title"
+msgstr ""
+
+#: ../includes/extendsions/theme-page-field.php:15
+msgid "Hide headline"
+msgstr ""
+
+#: ../includes/extendsions/theme-page-field.php:22
+msgid "Page main heading"
+msgstr ""
+
+#: ../includes/extendsions/theme-page-field.php:29
+msgid "Page Sub heading"
+msgstr ""
+
+#: ../includes/extendsions/theme-page-field.php:34
+msgid "Background setting just act on home page."
+msgstr ""
+
+#: ../includes/extendsions/theme-page-field.php:37
+msgid "Page background theme"
+msgstr ""
+
+#: ../includes/extendsions/theme-page-field.php:41
+msgid ""
+"After you selected 'Yes',the custom options will be displayed below and the "
+"previous background setting will be invalid."
+msgstr ""
+
+#: ../includes/extendsions/theme-page-field.php:46
+msgid "Custom background"
+msgstr ""
+
+#: ../includes/extendsions/theme-page-field.php:53
+msgid "Custom background color"
+msgstr ""
+
+#: ../includes/extendsions/theme-page-field.php:60
+msgid "Custom Font color"
+msgstr ""
+
+#: ../includes/extendsions/theme-page-field.php:66
+msgid "Fill in picture url,e.g http://xxx.com/bg.jpg"
+msgstr ""
+
+#: ../includes/extendsions/theme-page-field.php:67
+msgid ""
+"Custom background image(Optimal width is 2000px if you want it to be "
+"fullscreen.)"
+msgstr ""
+
+#: ../includes/extendsions/theme-page-field.php:75
+msgid "Background image repeat"
+msgstr ""
+
+#: ../includes/extendsions/theme-page-field.php:83
+msgid "Background Image Fixed"
+msgstr ""
+
+#: ../includes/extendsions/theme-page-field.php:89
+msgid "You can embed the video or maps here with full screen effect"
+msgstr ""
+
+#: ../includes/extendsions/theme-page-field.php:90
+msgid "Full screen embed code"
+msgstr ""
+
+#: ../vanPanel/van-options.php:26
+msgid "A Section added by hook"
+msgstr ""
+
+#: ../vanPanel/van-options.php:27
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array, great to allow child themes, to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../vanPanel/van-options.php:441
+msgid "SimpleKey Options"
+msgstr ""
+
+#: ../vanPanel/van-options.php:444
+msgid "SimpleKey Theme Options"
+msgstr ""
+
+#: ../vanPanel/van-options.php:471
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../vanPanel/van-options.php:472 ../vanPanel/van-options.php:477
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../vanPanel/van-options.php:476
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../vanPanel/van-options.php:481
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../vanPanel/van-options.php:488
+msgid "General Setting"
+msgstr ""
+
+#: ../vanPanel/van-options.php:489
+msgid ""
+"<p class=\"description\">Configure and initialize the general setting of "
+"theme.</p>"
+msgstr ""
+
+#: ../vanPanel/van-options.php:497
+msgid "Custom LOGO"
+msgstr ""
+
+#: ../vanPanel/van-options.php:498
+msgid "Customize your own LOGO, the best size: 170X65px"
+msgstr ""
+
+#: ../vanPanel/van-options.php:504
+msgid "Retina(HiDPI) LOGO"
+msgstr ""
+
+#: ../vanPanel/van-options.php:505
+msgid ""
+"If the logo file name is \"logo.png\", then rename your retina logo file to "
+"\"logo@2x.png\""
+msgstr ""
+
+#: ../vanPanel/van-options.php:511
+msgid "Favicon"
+msgstr ""
+
+#: ../vanPanel/van-options.php:512
+msgid "Setting your favicon in the brower address bar for your website"
+msgstr ""
+
+#: ../vanPanel/van-options.php:518
+msgid "First Title"
+msgstr ""
+
+#: ../vanPanel/van-options.php:519 ../vanPanel/van-options.php:527
+#: ../vanPanel/van-options.php:536
+msgid "It will be displayed on homepage top area if there is no slides."
+msgstr ""
+
+#: ../vanPanel/van-options.php:526
+msgid "Second Title"
+msgstr ""
+
+#: ../vanPanel/van-options.php:534
+msgid "Site introduction"
+msgstr ""
+
+#: ../vanPanel/van-options.php:543
+msgid "Pages included in the top primary navigation."
+msgstr ""
+
+#: ../vanPanel/van-options.php:544
+msgid ""
+"Choose what pages you want it to displayed in the primary navigation if you "
+"are not set custom menu and make it to be anchor point."
+msgstr ""
+
+#: ../vanPanel/van-options.php:552
+msgid "The column number of the portfolios in Portfolios Archive Page"
+msgstr ""
+
+#: ../vanPanel/van-options.php:553
+msgid ""
+"This option is effect on the sub page which you have select \"Portfolios "
+"Archives\" template."
+msgstr ""
+
+#: ../vanPanel/van-options.php:561
+msgid "Copyright Info"
+msgstr ""
+
+#: ../vanPanel/van-options.php:563
+msgid "HTML Allowed"
+msgstr ""
+
+#: ../vanPanel/van-options.php:564
+msgid "Copyright 2013. All right reserved"
+msgstr ""
+
+#: ../vanPanel/van-options.php:571
+msgid "Show Theme Credit?"
+msgstr ""
+
+#: ../vanPanel/van-options.php:572
+msgid ""
+"If you choose NO,\"Theme designed by ThemeVan\" text will be remove from "
+"footer,of course we hope your support."
+msgstr ""
+
+#: ../vanPanel/van-options.php:579
+msgid "Slider Transition Speed"
+msgstr ""
+
+#: ../vanPanel/van-options.php:581
+msgid "Default is 600 millisecond"
+msgstr ""
+
+#: ../vanPanel/van-options.php:582 ../vanPanel/van-options.php:592
+msgid "millisecond"
+msgstr ""
+
+#: ../vanPanel/van-options.php:589
+msgid "Slider playing speed"
+msgstr ""
+
+#: ../vanPanel/van-options.php:591
+msgid "Default is 7000 millisecond"
+msgstr ""
+
+#: ../vanPanel/van-options.php:601
+msgid "Show LOGO on Mobile Phone"
+msgstr ""
+
+#: ../vanPanel/van-options.php:610
+msgid "Disable the page loading"
+msgstr ""
+
+#: ../vanPanel/van-options.php:619
+msgid "Disable Retina Support"
+msgstr ""
+
+#: ../vanPanel/van-options.php:628
+msgid "Disable Nice Scroll Plugin"
+msgstr ""
+
+#: ../vanPanel/van-options.php:629
+msgid "Just use native scroll bar after you disabled"
+msgstr ""
+
+#: ../vanPanel/van-options.php:637
+msgid "Disable Responsive"
+msgstr ""
+
+#: ../vanPanel/van-options.php:638
+msgid ""
+"If you selected Yes, the website will be displayed as desktop version on "
+"your smartphone and iPad"
+msgstr ""
+
+#: ../vanPanel/van-options.php:646
+msgid "Enable the sidebar in single post page"
+msgstr ""
+
+#: ../vanPanel/van-options.php:655
+msgid "Remove the contact area from page bottom"
+msgstr ""
+
+#: ../vanPanel/van-options.php:663
+msgid "Remove the footer from page bottom"
+msgstr ""
+
+#: ../vanPanel/van-options.php:671
+msgid "Hide Back To Top Button"
+msgstr ""
+
+#: ../vanPanel/van-options.php:679
+msgid "Contact section"
+msgstr ""
+
+#: ../vanPanel/van-options.php:680
+msgid ""
+"<p class=\"description\">Fill in your Email,telphone number,fax and other "
+"contact page setting,they will be displayed at the bottom of pages.</p>"
+msgstr ""
+
+#: ../vanPanel/van-options.php:689
+msgid "Enable captcha for contact form"
+msgstr ""
+
+#: ../vanPanel/van-options.php:697
+msgid "Your name"
+msgstr ""
+
+#: ../vanPanel/van-options.php:705
+msgid "E-mail"
+msgstr ""
+
+#: ../vanPanel/van-options.php:707
+msgid "The email address is invalid,please check it again."
+msgstr ""
+
+#: ../vanPanel/van-options.php:708
+msgid ""
+"You will use this email to receive the customer message via the contact page"
+msgstr ""
+
+#: ../vanPanel/van-options.php:714
+msgid "Telphone"
+msgstr ""
+
+#: ../vanPanel/van-options.php:721
+msgid "Skype"
+msgstr ""
+
+#: ../vanPanel/van-options.php:728
+msgid "Fax"
+msgstr ""
+
+#: ../vanPanel/van-options.php:735
+msgid "Address"
+msgstr ""
+
+#: ../vanPanel/van-options.php:742
+msgid "Page main title"
+msgstr ""
+
+#: ../vanPanel/van-options.php:750
+msgid "Page subtitle"
+msgstr ""
+
+#: ../vanPanel/van-options.php:758
+msgid "Introduction title"
+msgstr ""
+
+#: ../vanPanel/van-options.php:766
+msgid "Page content"
+msgstr ""
+
+#: ../vanPanel/van-options.php:775
+msgid "Subscribe title"
+msgstr ""
+
+#: ../vanPanel/van-options.php:784
+msgid "Subscribe Form code"
+msgstr ""
+
+#: ../vanPanel/van-options.php:785
+msgid ""
+"First,go to <a href=\"http://mailchimp.com/\" target=\"_blank\">mailchimp</"
+"a> and get the form code, then replace URL of the form action property to "
+"yours."
+msgstr ""
+
+#: ../vanPanel/van-options.php:786
+msgid "Leave empty if you want to remove it"
+msgstr ""
+
+#: ../vanPanel/van-options.php:794
+msgid "Social Network"
+msgstr ""
+
+#: ../vanPanel/van-options.php:795
+msgid "<p class=\"description\">Add image or text for top cover page</p>"
+msgstr ""
+
+#: ../vanPanel/van-options.php:803
+msgid "Facebook URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:811
+msgid "Twitter URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:819
+msgid "Google+ URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:827
+msgid "Deviantart URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:835
+msgid "Flicker URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:843
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:851
+msgid "Behance URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:859
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:867
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:875
+msgid "Youtube URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:883
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:891
+msgid "linkedIn URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:899
+msgid "Myspace URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:907
+msgid "SoundCloud URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:915
+msgid "Email"
+msgstr ""
+
+#: ../vanPanel/van-options.php:923
+msgid "AIM ID"
+msgstr ""
+
+#: ../vanPanel/van-options.php:931
+msgid "Yahoo IM ID"
+msgstr ""
+
+#: ../vanPanel/van-options.php:939
+msgid "Tnstagram URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:947
+msgid "Meetup URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:955
+msgid "Xing URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:963
+msgid "Klout URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:971
+msgid "RSS URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:979
+msgid "Custom Styles"
+msgstr ""
+
+#: ../vanPanel/van-options.php:980
+msgid "<p class=\"description\">Customize color or font for elements</p>"
+msgstr ""
+
+#: ../vanPanel/van-options.php:989
+msgid "Enable Custom Styles"
+msgstr ""
+
+#: ../vanPanel/van-options.php:997
+msgid "Global Link Color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:998
+msgid "Customize global link color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:999 ../vanPanel/van-options.php:1008
+#: ../vanPanel/van-options.php:1017 ../vanPanel/van-options.php:1026
+#: ../vanPanel/van-options.php:1054 ../vanPanel/van-options.php:1063
+#: ../vanPanel/van-options.php:1072 ../vanPanel/van-options.php:1081
+#: ../vanPanel/van-options.php:1090 ../vanPanel/van-options.php:1099
+#: ../vanPanel/van-options.php:1108 ../vanPanel/van-options.php:1117
+#: ../vanPanel/van-options.php:1219 ../vanPanel/van-options.php:1236
+#: ../vanPanel/van-options.php:1244 ../vanPanel/van-options.php:1252
+#: ../vanPanel/van-options.php:1260 ../vanPanel/van-options.php:1268
+msgid "Pick a color."
+msgstr ""
+
+#: ../vanPanel/van-options.php:1006
+msgid "Global Hover Link Color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1007
+msgid "Customize global hover link color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1015
+msgid "Selection Color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1016
+msgid "Customize the background color when you selected the text"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1024
+msgid "Navigation Background Color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1025
+msgid "Customize background color for the navigation menu"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1032
+msgid "Navigation Link Font:"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1035
+msgid "Change the navigation link font,it is not act on mobile Phone device."
+msgstr ""
+
+#: ../vanPanel/van-options.php:1036 ../vanPanel/van-options.php:1127
+#: ../vanPanel/van-options.php:1137 ../vanPanel/van-options.php:1183
+#: ../vanPanel/van-options.php:1202
+msgid ""
+"Preview the font in <a href=\"http://www.google.com/webfonts\" target="
+"\"_blank\">google fonts</a>"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1042
+msgid "The Font Size of Navigation Link:"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1045 ../vanPanel/van-options.php:1146
+#: ../vanPanel/van-options.php:1155 ../vanPanel/van-options.php:1164
+#: ../vanPanel/van-options.php:1173 ../vanPanel/van-options.php:1192
+#: ../vanPanel/van-options.php:1211
+msgid "px"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1052
+msgid "Navigation Link Color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1053
+msgid "Customize the color for the navigation link"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1061
+msgid "Navigation link hover color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1062
+msgid "Customize the hover color for the navigation link"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1070
+msgid "Navigation link hover background color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1071
+msgid "Customize the hover background color for the navigation link"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1079
+msgid "Navigation link active color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1080
+msgid "Customize the active color for the navigation link"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1088
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1089
+msgid "Customize the footer background color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1097
+msgid "Footer Text Color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1098
+msgid "Customize the footer text color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1106
+msgid "Footer Link Color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1107
+msgid "Customize the footer link color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1115
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1116
+msgid "Customize the footer link hover color"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1123
+msgid "Slider Head Title Font:"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1126
+msgid "Change the slider head title font,it is not act on mobile Phone device."
+msgstr ""
+
+#: ../vanPanel/van-options.php:1133
+msgid "Slider Sub Title Font:"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1136
+msgid "Change the slider sub title font,it is not act on mobile Phone device."
+msgstr ""
+
+#: ../vanPanel/van-options.php:1143
+msgid "The Bigger Font Size of Slider Head Title:"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1145 ../vanPanel/van-options.php:1163
+msgid "For one column situation"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1152
+msgid "The smaller Font Size of Slider Head Title:"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1154 ../vanPanel/van-options.php:1172
+msgid "For two columns situation"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1161
+msgid "The Bigger Font Size of Slider Sub Title:"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1170
+msgid "The smaller Font Size of Slider Sub Title:"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1179
+msgid "Sections Font Head Title:"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1182
+msgid ""
+"Change the sections head title font,it is not act on mobile Phone device."
+msgstr ""
+
+#: ../vanPanel/van-options.php:1189
+msgid "The Font Size of Sections Head Title:"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1198
+msgid "Sections Sub Title Font:"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1201
+msgid ""
+"Change the sections sub title font,it is not act on mobile Phone device."
+msgstr ""
+
+#: ../vanPanel/van-options.php:1208
+msgid "The Font Size of Sections Sub Title:"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1218
+msgid "Background Color of Contact Section"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1226
+msgid "Background Image of Contact Section"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1228
+msgid "Fill in the background image URL"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1235
+msgid "Text Color of Contact Section"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1243
+msgid "Background of Contact Form Field"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1251
+msgid "Text Color of Contact Form Field"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1259
+msgid "Background Color of Contact Form Button"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1267
+msgid "Text Color of Contact Form Button"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1274
+msgid "Additionals"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1275
+msgid "<p class=\"description\">Additional options.</p>"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1283
+msgid "Additional Codes"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1284
+msgid ""
+"You can add some CSS,Javascript,Statistics code or META infomation inside "
+"head tag"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1290
+msgid "Footer Code"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1291
+msgid ""
+"You can add some CSS,Javascript,Statistics code at the end of HTML document."
+msgstr ""
+
+#: ../vanPanel/van-options.php:1317
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../vanPanel/van-options.php:1318
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../vanPanel/van-options.php:1319
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../vanPanel/van-options.php:1321
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../vanPanel/van-options.php:1328
+msgid "Theme Information"
+msgstr ""
+
+#: ../vanPanel/van-options.php:1335
+msgid "Documentation"
+msgstr ""
+
+#: ../vanPanel/options/options.php:97 ../vanPanel/options/options.php:101
+msgid "Options"
+msgstr ""
+
+#: ../vanPanel/options/options.php:125
+msgid "<span id=\"footer-thankyou\">Options Panel created using the <a href=\""
+msgstr ""
+
+#: ../vanPanel/options/options.php:493 ../vanPanel/options/options.php:495
+#: ../vanPanel/options/options.php:1361
+msgid "Import / Export"
+msgstr ""
+
+#: ../vanPanel/options/options.php:547 ../vanPanel/options/options.php:549
+#: ../vanPanel/options/options.php:1399 ../vanPanel/options/options.php:1563
+msgid "Dev Mode Info"
+msgstr ""
+
+#: ../vanPanel/options/options.php:659
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: ../vanPanel/options/options.php:1293 ../vanPanel/options/options.php:1613
+msgid "Reset to Defaults"
+msgstr ""
+
+#: ../vanPanel/options/options.php:1305
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: ../vanPanel/options/options.php:1309
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: ../vanPanel/options/options.php:1317
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#: ../vanPanel/options/options.php:1319
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: ../vanPanel/options/options.php:1323
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: ../vanPanel/options/options.php:1435
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../vanPanel/options/options.php:1439
+msgid "Import Options"
+msgstr ""
+
+#: ../vanPanel/options/options.php:1455
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../vanPanel/options/options.php:1481
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../vanPanel/options/options.php:1501
+msgid "Import"
+msgstr ""
+
+#: ../vanPanel/options/options.php:1501
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../vanPanel/options/options.php:1507
+msgid "Export Options"
+msgstr ""
+
+#: ../vanPanel/options/options.php:1511
+msgid ""
+"Here you can copy/download your themes current option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong. Or you can use "
+"it to restore your settings on this site (or any other site). You also have "
+"the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site"
+msgstr ""
+
+#: ../vanPanel/options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr ""
+
+#: ../vanPanel/options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr ""
+
+#: ../vanPanel/options/fields/google_webfonts/field_google_webfonts.php:42
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>.<br/>Please <a href=\"http://www.google.com/webfonts\" target="
+"\"_blank\">browse the directory</a> to preview a font, then select your "
+"choice below."
+msgstr ""
+
+#: ../vanPanel/options/fields/multi_text/field_multi_text.php:39
+#: ../vanPanel/options/fields/multi_text/field_multi_text.php:46
+#: ../vanPanel/options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr ""
+
+#: ../vanPanel/options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: ../vanPanel/options/fields/upload/field_upload.php:39
+msgid "Browse"
+msgstr ""
+
+#: ../vanPanel/options/fields/upload/field_upload.php:40
+msgid "Remove Upload"
+msgstr ""
+
+#: ../vanPanel/options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../vanPanel/options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: ../vanPanel/options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../vanPanel/options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../vanPanel/options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../vanPanel/options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../vanPanel/options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../vanPanel/options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""

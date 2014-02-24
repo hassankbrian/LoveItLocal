@@ -1,0 +1,19 @@
+/* Admin CSS */
+.metabox{
+    position:relative;
+}
+.metabox span{
+    color:#999;
+	margin-left:10px;
+}
+.colorpicker{
+	background:#fff;
+	border:1px solid #ddd;
+	width:195px;
+	height:195px;
+	z-index:9;
+	position:absolute;
+	left:120px;
+	bottom:0;
+	display:none;
+}

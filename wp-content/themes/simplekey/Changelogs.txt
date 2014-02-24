@@ -1,0 +1,497 @@
+V1.0 - 2013-01-02
+ - Released
+
+V1.01 - 2013-01-09
+ - Fixed the horizontal scroll bar is appeared on the home page issue.
+ - Correct 'andriod' spelling error on the UI-Elements.png picture.
+
+ *---------Changed files------------*
+ - css/layout.css
+ - images/UI-Elements.png
+ - style.css(Change version number)
+
+V1.02 - 2013-01-11
+ - Sync sub menu background color.
+ - Add the default color to text input and textarea borders.
+ - Add 'lightbox' parameter in [portfolios] shortcode, if its value is '0',go to detail page.
+ - Add custom style options in theme panel.
+ - Change the line-height of head&sub titles on the front page.
+ - Fixed the embed video or iframe can't displayed in columns shortcodes.
+ - Fixed the navigation menu doesn't work in sub page.
+ - Fixed an issue that the navigation will be hidden in safari.
+ 
+ *---------Changed files------------*
+ - css/layout.css
+ - functions/admin-functions.php
+ - functions/common-functions.php
+ - includes/theme-functions.php
+ - vanPanel/van-options.php
+ - content-slider.php
+ - js/jquery.SimpleKey.js
+ - languages/default.po default.mo
+ - sample-data.xml
+ - help.pdf
+ - style.css(Change version number)
+
+V1.03 - 2013-01-12
+ - Fixed the social icons' link error.
+ - Change the team members' avatar to circle shape.
+ - Integrated google web fonts for slider titles
+ - Add a parameter "intro" to [portfolios] shortcode.
+ - Add a parameter "anchor" to [button] shortcode.
+ - Add a parameter "top","bottom" to [headline] shortcode.
+ 
+ *---------Changed files------------*
+ - css/layout.css
+ - css/media-queries.css
+ - images/default_avatar.jpg
+ - includes/theme-functions.php
+ - includes/theme-init.php
+ - functions/shortcodes.php
+ - functions/common-functions.php
+ - functions/admin-functions.php
+ - vanPanel/van-options.php
+ - js/jquery.SimpleKey.js
+ - single-portfolio.php
+ - help.pdf
+ - languages/default.po default.mo
+ - style.css(Change version number)
+ 
+V1.04 - 2013-01-14
+ - Add the ajax open effect for portfolio gallery on the frontpage.
+
+ *---------Changed files------------*
+ - css/layout.css
+ - js/jquery.SimpleKey.js
+ - includes/theme-functions.php
+ - functions/shortcodes.php
+ - header.php
+ - content-portfolios.php
+ - single-portfolio.php
+ - style.css(Change version number)
+ - languages/default.po default.mo
+ - help.pdf
+
+V1.04.1 - 2013-01-15
+ - Fixed the issue that the logo can't display normal;
+
+ *---------Changed files------------*
+ - functions/admin-functions.php
+ - style.css(Change version number)
+
+V1.05 - 2013-01-16
+ - Fixed the navigation links doesn't work in safari6.0.x and part of chrome.
+ - Fixed the anchor links could not return to homepage right position in Firefox.
+ - Fixed the background image could not fixed in safari.
+ 
+ *---------Changed files------------*
+ - css/layout.css
+ - includes/theme-functions.php
+ - includes/theme-init.php
+ - js/jquery.SimpleKey.js
+ - Add js/jquery.localscroll-1.2.7-min.js
+ - Add js/scrollTo-1.4.3.1-min.js
+ - Delete js/jquery.smooth-scroll.min.js
+ - languages/default.po default.mo
+ - style.css(Changed version number)
+
+V1.06 - 2013-01-17
+ - Fixed the jquery conflict issue in WordPress dashbroad
+ - Fixed a bug in portfolio archive page.
+ - Improved many details for responsive layout.
+ - Add LinkedIn icons
+ - Add Youtube/Vimeo/SoundCloud support in portfolio post.
+
+ *---------Changed files------------*
+ - css/layout.css
+ - css/general.css
+ - page-portfolios (Changed template name)
+ - functions/js/admin_script.js
+ - functions/common-functions.php
+ - vanPanel/van-options.php
+ - includes/extendsions/portfolio-type.php
+ - includes/theme-init.php
+ - content-portfolios.php
+ - images/UI-Elements.png
+ - languages/default.po default.mo
+ - style.css(Changed version number)
+ 
+V1.07 - 2013-01-19
+ - Fixed the contact form doesn't work in homepage.
+ - Improved many details for responsive layout.
+ - Remove the lightbox effect in portolio single page.
+ - Fixed the portfolio is repeat when it¡¯s in both categories.
+ - Fixed the custom.css can¡¯t override the media-queries.css.
+ 
+ 
+ *---------Changed files------------*
+ - single-portfolio.php
+ - content-contactform.php
+ - functions/admin-functions.php
+ - includes/theme-functions.php
+ - css/media-queries.css
+ - style.css(Changed version number)
+  
+ V1.08 - 2013-01-23
+ - Fixed a part of google webfonts doesn't work. 
+ - Improved many details for responsive layout, especially the navigation menu.
+ - Fixed locale bug
+ - Fixed portfolio&blog excerpt bug.
+ - Fixed IE8/9 is not support the placeholder propertype of contact form input.
+ - Cancelled enforce the video size in PC device.
+ - Allowed p and br tags in columns shortcode.
+ - Add contact page template.
+ - Add fullwidth layout for blog shortcode.
+ - Add mobile background image option for slider.
+ - Add a [format] shortcode to support p,br or the other more HTML tags.
+
+ *---------Changed files------------*
+ - functions/admin-functions.php
+ - functions/shortcodes.php
+ - functions/common-functions.php
+ - includes/theme-functions.php
+ - includes/theme-init.php
+ - includes/extendsions/slider-type.php
+ - vanPanel/van-options.php
+ - js/jquery.contact-form.js
+ - js/jquery.SimpleKey.js
+ - Add js/jquery.placeholder.min.js
+ - functions/js/jquery.van.js
+ - functions/js/admin_script.js
+ - content-slider.php
+ - content-loop.php
+ - content-portfolios.php
+ - Add page-contact.php
+ - css/media-queries.css
+ - languages/default.po default.mo
+ - style.css(Changed version number)
+ 
+ V1.09 - 2013-02-03
+ - Fixed an error when the portfolio category doesn't exist.
+ - Fixed the order of gallery images doesn't work.
+ - Add an option for disable the page loading affect.
+ - Add SoundCloud and Myspace social icons and options.
+ - Add custom slider content options. 
+ - Add Retina LOGO upload option.
+ - Add latin subset support for custom fonts.
+ 
+ *---------Changed files------------*
+ - archive.php
+ - content-pages.php
+ - content-loop.php
+ - content-slider.php
+ - content-contactform.php
+ - single.php
+ - single-portfolio.php
+ - page.php
+ - page-contact.php
+ - page-portfolios.php
+ - content-portfolios.php
+ - js/jquery.SimpleKey.js
+ - js/jquery.contact-form.js
+ - includes/theme-init.php
+ - includes/theme-functions.php
+ - includes/extendsions/slider-type.php
+ - includes/extendsions/theme-page-field.php
+ - functions/common-functions.php
+ - functions/admin-functions.php
+ - functions/shortcodes.php
+ - functions/js/admin_script.js
+ - vanPanel/van-options.php
+ - images/UI-Elements.png
+ - css/media-queries.css
+ - css/general.css
+ - languages/default.po default.mo
+ - style.css(Changed version number)
+ 
+ V1.1 - 2013-02-10
+ - Fixed the language file doesn't work.
+ - Fixed the slider doesn't work in a certain browser.
+ - Fixed the google plus icon doesn't display in member area.
+ - Fixed the responsive image issue.
+ - Removed the featured image from the portfolio gallery.
+ - Added a slider option for specific background image for tablet.
+ - Added back to top button.
+ - Added a theme option for show the logo on mobile phone. 
+ - Added a portfolio select options for images layout.
+ - Added Email,Yahoo IM,AIM,Meetup,Instagram icons and options.
+ - Added an option for disable retina support.
+ - Added some options for custom contact section and footer color.
+ - Added grey color sechme for pricing table.
+ - Added a new parameter for [portfolios_filter]: exclude
+ 
+ *---------Changed files------------*
+ - header.php
+ - footer.php
+ - archive.php
+ - search.php
+ - page.php
+ - page-portfolios.php
+ - page-content.php
+ - single.php
+ - content-contact.php
+ - content-slider.php
+ - content-portfolios.php
+ - single-portfolio.php
+ - vanPanel/van-options.php
+ - includes/theme-init.php
+ - includes/theme-functions.php
+ - includes/extendsions/theme-page-field.php
+ - includes/extendsions/portfolio-type.php
+ - includes/extendsions/slider-type.php
+ - functions/admin-functions.php
+ - functions/shortcodes.php
+ - functions/common-functions.php
+ - functions/css/shortcodes.css
+ - functions/js/admin_scripts.js
+ - Add captacha folder to funcions
+ - js/jquery.SimpleKey.js
+ - Add back-top.png to images folder
+ - images/UI-Elements.png
+ - add arr.png to images
+ - css/layout.css
+ - css/media-queries.css
+ - languages/default.po, default.mo 
+ - style.css
+
+ 
+
+ V1.11 - 2013-02-26
+ - Added fax option for contact section
+ - Added nexa font to the font select list
+ - Fixed something wrong with the slider background and content on mobile
+
+ *---------Changed files------------*
+ - header.php
+ - content-contactform.php
+ - content-contact.php
+ - functions/common-functions.php 
+ - functions/admin-functions.php
+ - vanPanel/van-options.php
+ - languages/default.po, default.mo
+ - css/media-queries.css
+ - style.css
+
+ V1.12 - 2013-03-13 
+ - Fixed some bugs in IE8
+ - Fixed the CAPTCHA doesn't work on some of webhostings.
+ - Fixed the portfolio thumbnail image is blur on mobile phone.
+ - Fixed the mobile version image of slider background is cropped on mobile phone.
+ - Improved the mobile menu and fixed that sometimes the menu doesn't work on andriod.
+ - Added more link in blog post loop.
+ - Added [social_icon] shortcode that you can set every icons link seperately,e.g. [social_icon facebook="http://facebook.com"]
+ - Added linkedIn icon to member information in [member] shortcode: [member linkedin="http://linkedin.com"]
+ - Added an new argument 'orderby' in [portfolios] shortcode, value is "rand" or "date".
+ - Added multilevel menu support.
+ - Added full screen Video/Map embeded support for each sections.
+ - Added an theme option for disable the nice scroll plugin and back to use native scroll bar. 
+
+ *---------Changed files------------*
+ - header.php
+ - page.php
+ - page-blog.php
+ - page-blog-2columns.php
+ - page-contact.php
+ - page-portfolios.php
+ - content-pages.php
+ - content-loop.php
+ - content-slider.php
+ - content-portfolios.php
+ - includes/theme-init.php
+ - includes/theme-functions.php
+ - includes/extendsions/theme-page-field.php
+ - functions/shortcodes.php
+ - functions/captcha
+ - functions/css/shortcodes.css
+ - functions/admin-functions.php
+ - functions/js/admin_script.js
+ - js/FlexSlider/flexslider.css
+ - js/jquery.simplekey.js
+ - js/jquery.hoverIntent.js
+ - js/jquery.superfish.js
+ - css/layout.css 
+ - css/media-queries.css
+ - css/fonts.css
+ - images/UI-Elements.png
+ - languages
+ - style.css
+ 
+ V1.13 - 2013-03-23
+ - Fixed the [headline] shortcode is conflict with the navigation highlight feature.
+ - Fixed the mobile menu still show the hidden page.
+ - Fixed the custom active link color of the navigation link doesn't display.
+ - Fixed the custom background color of the contact section doesn't work.
+ - Fixed the issue that the portfolio thumbnail can't display competely on iPad.
+ - Changed the slider heading font on mobile.
+ - Added an option for slider playing speed.
+ - Added border_color option for [button] shortcode.
+ - Added the external link option in portfolio setting.
+ 
+ *---------Changed files------------*
+ - functions.php
+ - functions/admin-functions.php
+ - functions/shortcodes.php
+ - functions/common-functions.php
+ - includes/theme-init.php
+ - includes/theme-functions.php
+ - includes/extendsions/portfolio-type.php
+ - vanPanel/van-options.php
+ - content-slider.php
+ - languages/default.po/mo files
+ - css/media-queries.css
+ - css/fonts.css
+ - css/layout.css
+ - style.css
+ 
+ V1.14 - 2013-04-17
+ - Fixed the image which in columns shortcode is not responsive.
+ - Fixed the contact form doesn't work on some webhostings.
+ - Fixed the hightlight of menu item is incorrect in sub page.
+ - Fixed the more tag doesn't work in two columns blog template.
+ - Fixed the font of slider heading doesn't work on mobile phone.
+ - Added "lightbox" argument to [button] shortcode.
+ - Added an option for set the background image of sections to scroll or fixed.
+ - Added an option for disable the responsive layout.
+ - Added auto disable the nicescroll plugin on mobile device.
+ - Added slider link option.
+ - Added xing.de icon and option
+ - Added an option for enable the sidebar in single post page.
+ - Added "gridview" argument to [blog] shortcode.
+ - Changed "fullwidth" argument to "thumbnail" in [blog] shortcode.
+ 
+ *---------Changed files------------*
+ - functions/css/shortcodes.css
+ - functions/shortcodes.php
+ - functions/common-functions.php
+ - functions/admin-functions.php
+ - includes/extendsions/theme-page-field.php
+ - includes/theme-init.php
+ - includes/theme-functions.php
+ - vanPanel/van-options.php
+ - images/UI-Elements.png
+ - js/jquery.simplekey.js
+ - content-pages.php
+ - content-loop.php
+ - content-contactform.php
+ - single-portfolio.php
+ - css/fonts.css
+ - css/layout.css
+ - css/media-queries.css
+ - languages/default.po, default.mo
+ - style.css
+ 
+ V1.15 - 2013-04-22
+ - Fixed the single blog post can't display competely when inserted more tag
+ - Fixed the search result page is messed up.
+ - Fixed the quotation marks icon malposition in quote shortcode.
+ - Fixed the external link is not work in portfolio archive page.
+ - Fixed the image in post content can't be scaled.
+ 
+ *---------Changed files------------*
+ - functions/common-functions.php
+ - functions/shortcodes.php
+ - New images: functions/images/quote_start.png and quote_close.png
+ - includes/theme-functions.php
+ - images/UI-Elements.png
+ - content-portfolios.php
+ - single.php
+ - languages/default.po, default.mo
+ - css/layout.css
+ - css/media-queries.css
+ - style.css
+
+ V1.16 - 2013-05-06
+ - Improved contact page template layout.
+ - Fixed 404 error when click the portfolio images in the detail page on mobile device.
+ - Fixed there's no animate effect when click the portfolio filter first time.
+ - Fixed the border of tab items doesn't display on safari 5.
+ - Fixed the top slider image is distorted on iPhone. 
+ - Added an option for disable the default gallery stage of the portfolio post.
+ - Added an new argument "hide_percent" to [skill] shortcode to hide the percent number.
+
+ *---------Changed files------------*
+ - functions/common-functions.php
+ - functions/shortcodes.php
+ - functions/css/shortcodes.css
+ - includes/extendsions/portfolio-type.php
+ - includes/theme-init.php
+ - js/jquery.simplekey.js
+ - page-contact.php
+ - single-portfolio.php
+ - languages/default.po, default.mo
+ - css/layout.css
+ - style.css
+ 
+ V1.17 - 2013-05-26
+ - Fixed "Back to Top" button doesn't work on certain devices.
+ - Fixed there's a redundant 1px height appeared when the mouse over the navigation menu item.
+ - Fixed something wrong with no responsive layout on mobile device.
+ - Added an new argument "text" to [skill] shortcode to instead of the percent number.
+ - Added Klout icon/option.
+ - Removed background color option in slider setting, you can use a solid-colored png image to instead of this option.
+
+ *---------Changed files------------*
+ - functions/shortcodes.php
+ - functions/admin-functions.php
+ - functions/common-functions.php
+ - includes/theme-init.php
+ - includes/extendsions/slider-type.php
+ - languages/default.po, default.mo
+ - css/media-queries.css
+ - css/layout.css
+ - images/UI-Elements.png
+ - content-pages.php
+ - content-slider.php
+ - footer.php
+ - style.css
+ 
+ V1.18 - 2013-06-03
+ - Fixed the audio doesn't display in portfolio post.
+ - Fixed the large white space above the map section.
+ - Fixed the height is too large when check it on mobile and window resized.
+ 
+ *---------Changed files------------*
+ - single-portfolio.php
+ - css/media-queries.css
+ - css/layout.css
+ - languages/default.po, default.mo
+ - style.css
+
+ V1.19 - 2013-06-13
+ - Fixed the page title doesn't display on the browser top bar.
+ - Fixed the custom background image of page section is blur on mobile device.
+ - Added new feature for embed the video to the slider shortcodes.
+ - Removed [tweets], because Twitter's decision to discontinue their unauthenticated v1.0 API means that this widget will stop working at some time in 2013 ¡ª Twitter wants your only option for on-page widgets to be their own Embedded Timelines.
+ 
+ *---------Changed files------------*
+ - functions/common-functions.php
+ - functions/shortcodes.php
+ - js/jquery.simplekey.js
+ - header.php
+ - content-pages.php
+ - content-contactform.php
+ - css/media-queries.css
+ - style.css
+ 
+ V1.2 - 2013-07-02
+ - Fixed the 4 and 5 columns of the portfolios grid doesn't work in portfolio archive page.
+ - Added "href" argument for the [slide] shortcode that you can add the link to each images.
+ - Added "excerpt" field for portfolio posts that you can customize the excerpt of portfolios to instead of auto truncated text.
+ - Rewrite some PHP codes
+ 
+ *---------Changed files------------*
+ - content-pages.php
+ - content-portfolios.php
+ - vanPanel/van-options.php
+ - functions/shortcodes.php
+ - includes/extendsions/theme-page-field.php
+ - includes/theme-init.php
+ - includes/theme-functions.php
+ - css/media-queries.css
+ - style.css
+ 
+ V1.21 - 2013-07-12
+ - Fixed the sub menu doesn't work.
+ 
+ *---------Changed files------------*
+ - includes/theme-init.php
