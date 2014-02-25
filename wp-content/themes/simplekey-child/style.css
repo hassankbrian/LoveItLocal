@@ -1,13 +1,13 @@
 /*
- Theme Name:     simplekey child 
- Theme URI:      http://themeforest.net/item/simplekey-one-page-portfolio-wordpress-theme/3729774
- Description:    simplekey child
- Author:         Elegant Themes
- Template:       simplekey
- Version:        1.0.0
+Theme Name: ChildName
+Theme URI: http://demo.themevan.com/simpekey
+Description: Child Theme for the SimpleKey theme.
+Template:  simplekey
+Author: ThemeVan
+Author URI:  http://www.themevan.com
+License: GNU General Public License and Themeforest general license
+License URI: License/README_License.txt
+Tags: one-column,flexible-width,custom-colors,custom-menu,theme-options,translation-ready
+Version: 1.1
 */
- 
-@import url("C:\xampp\htdocs\wordpress\wp-content\themes\simplekey\style.css");
- 
-/* =Theme customization starts here
-------------------------------------------------------- */
+@import url(../simplekey/style.css);
