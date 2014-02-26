@@ -31,7 +31,9 @@
            <?php endif;?>
            
            <?php if(isset($slider_mainheading) && $slider_mainheading<>''):?>
-           <h1 id="firstTitle"> <?php if($slider_link<>''){?><a href="<?php echo $slider_link;?>" target="_blank"><?php }?><?php echo _e(apply_filters(' ', _($slider_mainheading)));?> <?php if($slider_link<>''){?></a><?php }?></h1>
+           <img src="<?php echo get_template_directory_uri();?>/images/taller.jpg">
+           <!--<h1 id="firstTitle"> <?php if($slider_link<>''){?><a href="<?php echo $slider_link;?>" target="_blank"><?php }?><?php echo _e(apply_filters(' ', _($slider_mainheading)));?> <?php if($slider_link<>''){?></a><?php }?></h1>
+           -->
            <?php endif;?>
            
            <?php if(isset($slider_subheading) && $slider_subheading<>''):?>
@@ -81,7 +83,8 @@
       <?php if($i==0):?>
         <li>
         <div class="slide_content oneColumn">
-                      <?php if(isset($VAN['first-title']) && $VAN['first-title']<>''):?><h1 id="firstTitle"><?php echo $VAN['first-title'];?></h1><?php endif;?>
+                      <!--<?php if(isset($VAN['first-title']) && $VAN['first-title']<>''):?><h1 id="firstTitle"><?php echo $VAN['first-title'];?></h1><?php endif;?>-->
+                      <img src="<?php echo get_template_directory_uri();?>/images/titulo.png" width="200" height="85" alt="Computer Hope"></img>
                       <?php if(isset($VAN['second-title']) && $VAN['second-title']<>''):?><h2 id="secondTitle"><?php echo $VAN['second-title'];?></h2><?php endif;?>
                       <?php if(isset($VAN['intro']) && $VAN['intro']<>''):?>
                       <p id="excerpt">
@@ -89,7 +92,7 @@
                       </p>
                       <?php endif;?>
         </div>
-        <div class="slide_bg"><img src="<?php echo get_template_directory_uri();?>/images/bg.jpg" /></div>
+        <div class="slide_bg"><img src="<?php echo get_template_directory_uri();?>/images/taller.jpg" /></div>
         </li>
       <?php endif;?>
     </ul>

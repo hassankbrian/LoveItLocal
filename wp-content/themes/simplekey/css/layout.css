@@ -555,8 +555,8 @@ ul.sf-menu li li li.sfHover ul {
 	line-height: 80px;
 }
 #featured .twoColumns #secondTitle {
-	font: normal 36px 'infinity', Arial, Helvetica, sans-serif;
-	line-height: 30px;
+	font: normal 15px 'infinity', Arial, Helvetica, sans-serif;
+	line-height: 20px;
 }
 #featured #firstTitle a,
 #featured #secondTitle a{
@@ -579,8 +579,9 @@ ul.sf-menu li li li.sfHover ul {
 	line-height: 140px;
 }
 #featured .oneColumn #secondTitle {
-	font: normal 72px 'infinity', Arial, Helvetica, sans-serif;
-	line-height: 60px;
+	/*font: bold 45px 'infinity', Arial, Helvetica, sans-serif;*/
+	font: bold 30px 'league_gothic', Verdana, Arial, Helvetica;
+	line-height: 50px;
 }
 #featured .oneColumn #excerpt {
 	width: 70%;
