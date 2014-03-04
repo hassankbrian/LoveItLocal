@@ -11,3 +11,13 @@ Tags: one-column,flexible-width,custom-colors,custom-menu,theme-options,translat
 Version: 1.1
 */
 @import url(../simplekey/style.css);
+
+.portfolios .portfolio-item {
+	width: 320px;
+	height: 320px;
+	float: left;
+	overflow: hidden;
+	margin: 0 10px 10px 0;
+	position: relative;
+	background:#000;
+}
