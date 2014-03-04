@@ -3,7 +3,6 @@
 <footer id="footer">
 
  <div class="wrapper">
-  HOLA!!
       <div class="footer-l">
         <?php echo $VAN['copyright'];?>
         <?php if($VAN['theme_credit']==1):?><br/>Designed by <a href="http://www.themevan.com" target="_blank" title="Premium WordPress Themes">Oscar Pierre</a><?php endif;?>
