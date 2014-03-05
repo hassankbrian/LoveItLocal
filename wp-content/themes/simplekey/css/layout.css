@@ -325,7 +325,7 @@ h1#site-logo, h1#site-logo a {
 	background: #000;
 	z-index: 9;
 	clear: both;
-	position: relative;
+	position: absolute;
 }
 #primary-menu-container {
 	float: right;
