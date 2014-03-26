@@ -8,8 +8,8 @@ get_header();
 	  van_check_menu();
 	  get_template_part('content','pages');
 	  wp_reset_query();
-	  get_template_part('content','contact');
-	?> 
+	?>
+	  <!--get_template_part('content','contact');--> 
     
 </div>
 <?php get_footer();?>

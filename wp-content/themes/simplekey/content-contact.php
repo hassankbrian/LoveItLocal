@@ -9,20 +9,20 @@
               <?php if(isset($VAN['contact_sub_title']) && $VAN['contact_sub_title']<>''):?><p><?php echo $VAN['contact_sub_title'];?></p><?php endif;?>
            </hgroup>
            
-           <?php get_template_part('content','contactform');?>
+           <!--<?php get_template_part('content','contactform');?>-->
            
-           <div class="contactinfo">
+           <div class="contactinfo" style="width:auto;float:none;text-align:center;">
              <?php if(isset($VAN['contact_intro_title']) && $VAN['contact_intro_title']<>''):?>
                <h2><?php echo $VAN['contact_intro_title'];?></h2>
              <?php endif;?>
              <?php if(isset($VAN['contact_content']) && $VAN['contact_content']<>''):?><p><?php echo stripslashes($VAN['contact_content']);?></p><?php endif;?>
-             <div class="contactway">
+             <!--<div class="contactway">
                 <?php if(isset($VAN['name']) && $VAN['name']<>''):?><?php _e('Name:','SimpleKey');?> <?php echo $VAN['name'];?><br/><?php endif;?>
                 <?php if(isset($VAN['phone']) && $VAN['phone']<>''):?><?php _e('Phone:','SimpleKey');?> <?php echo $VAN['phone'];?><br/><?php endif;?>
                 <?php if(isset($VAN['fax']) && $VAN['fax']<>''):?><?php _e('Fax:','SimpleKey');?> <?php echo $VAN['fax'];?><br/><?php endif;?>
                 <?php if(isset($VAN['skype']) && $VAN['skype']<>''):?><?php _e('Skype:','SimpleKey');?> <?php echo $VAN['skype'];?><br/><?php endif;?>
                 <?php if(isset($VAN['address']) && $VAN['address']<>''):?><?php _e('Address:','SimpleKey');?> <?php echo $VAN['address'];?><?php endif;?>
-             </div>
+             </div>-->
              
              <?php if(isset($VAN['subscribe_form']) && $VAN['subscribe_form']<>''):?>
              <div class="subscribe">

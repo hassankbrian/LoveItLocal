@@ -86,6 +86,17 @@
                       <!--<?php if(isset($VAN['first-title']) && $VAN['first-title']<>''):?><h1 id="firstTitle"><?php echo $VAN['first-title'];?></h1><?php endif;?>-->
                       <img src="<?php echo get_template_directory_uri();?>/images/titulo.png" width="200" height="85" alt="Computer Hope"></img>
                       <?php if(isset($VAN['second-title']) && $VAN['second-title']<>''):?><h2 id="secondTitle"><?php echo $VAN['second-title'];?></h2><?php endif;?>
+                      <p></br></p>
+                      <?php if(isset($VAN['subscribe_form']) && $VAN['subscribe_form']<>''):?>
+                         <div class="subscribe">
+                            <?php if(isset($VAN['subscribe_intro_title']) && $VAN['subscribe_intro_title']<>''):?>
+                            <h2><?php echo $VAN['subscribe_intro_title'];?></h2>
+                            <?php endif;?>
+                            <p>
+                              <?php echo stripslashes($VAN['subscribe_form']);?>
+                            </p>
+                         </div>
+                       <?php endif;?>
                       <?php if(isset($VAN['intro']) && $VAN['intro']<>''):?>
                       <p id="excerpt">
                          <?php echo $VAN['intro'];?>
