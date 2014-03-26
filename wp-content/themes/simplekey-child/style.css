@@ -21,7 +21,9 @@ Version: 1.1
 	position: relative;
 	background: none;
 }
-
+.wc-shortcodes-accordion{
+	margin-top: 50px;
+}
 .wc-shortcodes-font-awesome-enabled .wc-shortcodes-accordion .wc-shortcodes-accordion-trigger a {
 	padding: 10px 20px 10px 40px;
 	position: relative;
@@ -31,6 +33,26 @@ Version: 1.1
 	font-weight: bold;
 }
 
+
 .subscribe .subscribe-btn {
-	padding-bottom: 7px;
+	padding-bottom: 5px;
+}
+
+#primary-menu {
+	width: 100%;
+	height: 69px;
+	line-height: 69px;
+	background: #887d70;
+	z-index: 9;
+	clear: both;
+	position: absolute;
+}
+
+#featured .oneColumn #secondTitle {
+font: bold 30px 'Oxygen', Verdana, Arial, Helvetica;
+}
+.subscribe .subscribe-btn {
+background: #887d70;
+color: #fff;
+text-transform: none;
 }
