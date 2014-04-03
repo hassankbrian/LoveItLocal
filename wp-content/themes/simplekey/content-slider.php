@@ -87,7 +87,7 @@
                       <img src="<?php echo get_template_directory_uri();?>/images/logobarcelonacomingsoon.png" width="200" height="85" alt="Computer Hope"></img>
                       <?php if(isset($VAN['second-title']) && $VAN['second-title']<>''):?><h2 id="secondTitle"><?php echo $VAN['second-title'];?></h2><?php endif;?>
                       <p></br></p>
-		      <p></br></p>
+                      <p></br></p>
                       <?php if(isset($VAN['subscribe_form']) && $VAN['subscribe_form']<>''):?>
                          <div class="subscribe">
                             <?php if(isset($VAN['subscribe_intro_title']) && $VAN['subscribe_intro_title']<>''):?>
