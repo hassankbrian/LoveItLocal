@@ -84,7 +84,7 @@
         <li>
         <div class="slide_content oneColumn">
                       <!--<?php if(isset($VAN['first-title']) && $VAN['first-title']<>''):?><h1 id="firstTitle"><?php echo $VAN['first-title'];?></h1><?php endif;?>-->
-                      <img src="<?php echo get_template_directory_uri();?>/images/titulo.png" width="200" height="85" alt="Computer Hope"></img>
+                      <img src="<?php echo get_template_directory_uri();?>/images/logobarcelonacomingsoon.png" width="200" height="85" alt="Computer Hope"></img>
                       <?php if(isset($VAN['second-title']) && $VAN['second-title']<>''):?><h2 id="secondTitle"><?php echo $VAN['second-title'];?></h2><?php endif;?>
                       <p></br></p>
 		      <p></br></p>
