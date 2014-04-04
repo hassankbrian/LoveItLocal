@@ -74,3 +74,17 @@ Version: 1.1
 	font-size: medium;
 	border-radius: 5px;
 }
+
+#featured .slide_content {
+	width: 926px;
+	height: 560px;
+	overflow: hidden;
+	color: #fff;
+	text-transform: uppercase;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-top: -270px;
+	margin-left: -463px;
+	z-index: 1;
+}
