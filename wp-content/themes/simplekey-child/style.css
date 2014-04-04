@@ -88,3 +88,13 @@ Version: 1.1
 	margin-left: -463px;
 	z-index: 1;
 }
+
+.portfolios .tools a {
+	width: 30px;
+	height: 30px;
+	display: block;
+	float: left;
+	margin-left: 2px;
+	text-indent: -10000px;
+	/* background: #363636 url(../images/UI-Elements.png) no-repeat; */
+}
