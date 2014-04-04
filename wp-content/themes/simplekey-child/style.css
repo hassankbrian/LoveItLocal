@@ -57,5 +57,20 @@ Version: 1.1
 
 .subscribe .subscribe-btn {
 	background: #887a6a;
-	padding-bottom: 9px;
+	padding-bottom: 1px;
+	height: 45px;
+	border-radius: 5px;
+	text-transform: none;
+}
+
+.subscribe .subscribe-btn:hover {
+	background: #67727E;
+}
+
+
+.subscribe .subscribe-input {
+	width: 300px;
+	color: #472E17;
+	font-size: medium;
+	border-radius: 5px;
 }
