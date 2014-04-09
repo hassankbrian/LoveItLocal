@@ -96,6 +96,7 @@
                             <p>
                               <?php echo stripslashes($VAN['subscribe_form']);?>
                             </p>
+                            <h2 style="margin-top:-10px;">No hacemos spam, tranquilos.</h2>
                          </div>
                        <?php endif;?>
                       <?php if(isset($VAN['intro']) && $VAN['intro']<>''):?>
