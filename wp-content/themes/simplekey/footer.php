@@ -6,12 +6,9 @@
      style="margin-top:-20px;
             margin-right:auto;
             margin-left: auto;
-            display: block;
+            display: inline;
             text-align:center;
-            color:#FFFFFF;
-            background-color: rgba(155,135,113,.5);
-            border-radius: 10px;
-            width:60%;">
+            color:#FFFFFF;">
   <h2 style="font-size:medium;text-transform:none;">Accede a LoveItLocal.</h2>
   <form action="http://loveitlocal.us8.list-manage.com/subscribe/post?u=fb544d00cf079b60f28a516f7&id=c9ae7f4fa1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <input type="text" id="mce-EMAIL" name="EMAIL" class="subscribe-input" value="" placeholder="Email" required />
