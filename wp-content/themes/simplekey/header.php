@@ -8,6 +8,7 @@ global $VAN;
 <meta charset="utf-8"> 
 <?php if(!isset($VAN['isResponsive']) || $VAN['isResponsive']==1):?>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"/>
+<meta name="p:domain_verify" content="6de7a757ab5a8ef7ff7a1bc996fbb2bc"/>
 <?php endif;?>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <title><?php /*
