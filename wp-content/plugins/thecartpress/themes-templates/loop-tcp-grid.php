@@ -38,12 +38,12 @@ $title_tag				= isset( $instance['title_tag' . $suffix] ) ? $instance['title_tag
 $see_image				= isset( $instance['see_image' . $suffix] ) ? $instance['see_image' . $suffix] : true;
 $image_size				= isset( $instance['image_size' . $suffix] ) ? $instance['image_size' . $suffix] : 'thumbnail';
 $see_discount			= isset( $instance['see_discount' . $suffix ] ) ? $instance['see_discount' . $suffix ] : true;
-$see_stock				= isset( $instance['see_stock' . $suffix ] ) ? $instance['see_stock' . $suffix ] : false;
-$see_excerpt			= isset( $instance['see_excerpt' . $suffix] ) ? $instance['see_excerpt' . $suffix] : false;
-$excerpt_length			= isset( $instance['excerpt_length' . $suffix] ) ? $instance['excerpt_length' . $suffix] : 10;
-$see_content			= isset( $instance['see_content' . $suffix] ) ? $instance['see_content' . $suffix] : false;
-$see_price				= isset( $instance['see_price' . $suffix] ) ? $instance['see_price' . $suffix] : false;
-$see_buy_button			= isset( $instance['see_buy_button' . $suffix] ) ? $instance['see_buy_button' . $suffix] : true;
+//$see_stock				= isset( $instance['see_stock' . $suffix ] ) ? $instance['see_stock' . $suffix ] : false;
+//$see_excerpt			= isset( $instance['see_excerpt' . $suffix] ) ? $instance['see_excerpt' . $suffix] : false;
+//$excerpt_length			= isset( $instance['excerpt_length' . $suffix] ) ? $instance['excerpt_length' . $suffix] : 10;
+//$see_content			= isset( $instance['see_content' . $suffix] ) ? $instance['see_content' . $suffix] : false;
+//$see_price				= isset( $instance['see_price' . $suffix] ) ? $instance['see_price' . $suffix] : false;
+//$see_buy_button			= isset( $instance['see_buy_button' . $suffix] ) ? $instance['see_buy_button' . $suffix] : true;
 $see_author				= isset( $instance['see_author' . $suffix] ) ? $instance['see_author' . $suffix] : false;
 $see_posted_on			= isset( $instance['see_posted_on' . $suffix] ) ? $instance['see_posted_on' . $suffix] : false;
 $see_taxonomies			= isset( $instance['see_taxonomies' . $suffix] ) ? $instance['see_taxonomies' . $suffix] : false;
@@ -140,8 +140,11 @@ if ( isset( $instance['title_tag'] ) && $instance['title_tag'] != '' ) {
 
 				<?php if ( $see_title ) : ?>
 					<div class="tcp-product-title">
+					<center><font face='verdana'>
 					<?php echo $title_tag;?><a href="<?php tcp_the_permalink( );?>"><?php the_title(); ?></a>
 					<?php echo $title_end_tag;?>
+					</font>
+					</center>
 					</div><!-- .tcp-product-title -->
 				<?php endif; ?>
 
