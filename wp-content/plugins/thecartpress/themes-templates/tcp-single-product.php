@@ -1,3 +1,4 @@
+
 <?php
 /**
  * Outputs the single content of a saleable post type

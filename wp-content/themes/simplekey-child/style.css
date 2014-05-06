@@ -98,3 +98,7 @@ Version: 1.1
 	text-indent: -10000px;
 	/* background: #363636 url(../images/UI-Elements.png) no-repeat; */
 }
+
+.single-tcp_product{
+	background-image: url('http://loveitlocal.es/wp-content/uploads/2014/05/white-bg.jpg');
+}
