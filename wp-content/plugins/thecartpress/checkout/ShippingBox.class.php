@@ -178,7 +178,7 @@ class TCPShippingBox extends TCPCheckoutBox {
 			</label>
 			<br />
 		<?php } ?>
-			<span id="p_use_billing_address">
+			<!--<span id="p_use_billing_address">
 				<label for="use_billing_address">
 					<input type="radio" id="use_billing_address" name="selected_shipping_address" value="BIL" <?php checked( $selected_shipping_address, 'BIL' ); ?> onChange="jQuery('#selected_shipping_area').hide();jQuery('#new_shipping_area').hide();" />
 					<?php _e( 'Use billing address', 'tcp' );?>
@@ -186,7 +186,7 @@ class TCPShippingBox extends TCPCheckoutBox {
 				<?php if ( $selected_shipping_address == 'BIL' ) $this->showErrorMsg( 'shipping_country_id' );?>
 				<br/>
 			</span>
-
+			-->
 			<label for="new_shipping_address">
 				<input type="radio" id="new_shipping_address" name="selected_shipping_address" value="new" <?php if ( $selected_shipping_address == 'new' || ( count( $addresses ) == 0 && $selected_shipping_address != 'BIL' ) ) : ?> checked="true"<?php endif;?> onChange="jQuery('#new_shipping_area').show();jQuery('#selected_shipping_area').hide();" />
 				<?php _e( 'New shipping address', 'tcp' ); ?>
