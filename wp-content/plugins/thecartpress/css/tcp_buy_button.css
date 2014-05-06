@@ -1,0 +1,84 @@
+.tcp_buy_button_area .tcp_unit_price {
+	font-size:18px;
+	font-weight: bold;
+	padding-top:8px;
+	padding-bottom:8px;
+}
+.tcp-product-list .tcp_buy_button_area .tcp_unit_price {
+	font-size:16px;
+}
+.tcp-wishlist-buttons button,
+.tcp_buy_button_area.tcpf input,
+.tcp_buy_button_area.tcpf select,
+.tcp_buy_button_area.tcpf button,
+.tcp_buy_button_area.tcpf .form-inline select {
+	margin: 2px 1px;
+}
+.tcpf .tcp_dynamic_option_panel .form-group {
+	margin: 6px 0 0;
+}
+.tcpf .tcp_dynamic_option_panel label {
+	margin-bottom: 6px;
+}
+.tcp-add-to-cart {
+	margin: 10px 0 20px;
+}
+
+input[type="number"].tcp_count {
+	text-align: center;
+	max-width: 60px;
+}
+
+/* dynamic options */
+.tcpf .form-inline .tcp-buy-dynamic-options .form-group {
+	display: block;
+}
+.tcpf .form-inline .tcp_dynamic_option_panel .form-group {
+	max-width: 260px;
+}
+
+
+/* buy button in loop --------*/
+.tcp-product-list .tcp_dynamic_option_panel .form-group label {
+	font-weight: normal;
+}
+
+.tcp-product-list .form-control {
+	max-width: 99%;
+}
+
+.tcp-product-list .tcp_dynamic_options_select.form-control {
+	border-radius: 3px;
+	font-size: 12px;
+	height: 30px;
+	line-height: 1.5;
+	padding: 5px 10px;
+}
+
+.tcp-grid-item button.tcp-btn[type="submit"],
+.tcp-grid-item input[type="button"],
+.tcp-grid-item input[type="reset"],
+.tcp-grid-item input[type="submit"]  {
+	white-space: normal;
+}
+
+
+/* TIER PRICES 
+*/
+div.tcp_tier_price,
+div.tcp_delivery_date {
+	margin: 3px 0 3px 0;
+}
+a.tcp_view_tier_price {
+	text-decoration:none !important;
+	margin: 6px 0 2px 0;
+	float:left;
+}
+
+div.tcp_tier_price ul {
+	list-style: none;
+	margin: 0;
+}
+div.tcp_tier_price ul li {
+	margin: 0;
+}
