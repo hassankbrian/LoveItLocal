@@ -102,3 +102,9 @@ Version: 1.1
 .single-tcp_product{
 	background-image: url('http://loveitlocal.es/wp-content/uploads/2014/05/white-bg.jpg');
 }
+
+
+.tcp-product-thumbnail{
+   position: relative;
+   background: rgba(201, 151, 128,0.5); 
+}
